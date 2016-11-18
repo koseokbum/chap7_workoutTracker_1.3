@@ -7,7 +7,7 @@
 이 깃저장소를 클론닝 한 이후에 다음과 같이 시행한다.
 
 
-    $ git clone https://github.com/koseokbum/
+    $ git clone https://github.com/koseokbum/chap7_workoutTracker_1.3.git
 
 그리고 해당 앱 디렉터리로 이동한 다음, 다음을 실행한다.
 
